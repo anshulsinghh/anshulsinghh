@@ -1,7 +1,8 @@
 # 👋 Hello, I'm Anshul!
 I'm a 3rd year studying Computer Science at UC San Diego. Welcome to my GitHub!
 
-### My projects are all on GitHub:
+<b>My projects are all on GitHub. Here's some of the highlights below:</b>
+<br>
 <b>FuelEfficient: </b> A full-stack web app that helps users visualize vehicle emissions using the EPA's Fuel Economy Dataset.
 <br>
 <b>Speeding COVID-19 Testing via Pooled Optimization: </b> An algorithmic testing strategy that speeds coronavirus testing by ~82%.
