@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Anshul!
 I'm a 3rd year studying Computer Science at UC San Diego. Welcome to my GitHub!
 
-<b>I store all my projects on GitHub:</b>
+### I store all my projects on GitHub:
 <br>
 <b>FuelEfficient: </b> A full-stack web app that helps users visualize vehicle emissions using the EPA's Fuel Economy Dataset.
 <br>
