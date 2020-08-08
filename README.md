@@ -2,12 +2,9 @@
 I'm a 3rd year studying Computer Science at UC San Diego. Welcome to my GitHub!
 
 ## Skills
-### Core Skills
-Data Structures and Algorithms, Web Development, Databases, Systems Engineering, Agile Development Cycles
-### Languages
-Java, Python, SQL, C++, C, R, Go, JavaScript, HTML, CSS
-### Technologies
-NodeJS, REST APIs, GitHub, React, MySQL, Docker, AWS, Flask, MongoDB, NumPy, Pandas
+<b>Core Skills:</b> Data Structures and Algorithms, Web Development, Databases, Systems Engineering, Agile Development Cycles
+<b>Languages:</b> Java, Python, SQL, C++, C, R, Go, JavaScript, HTML, CSS
+</b>Technologies:</b> NodeJS, REST APIs, GitHub, React, MySQL, Docker, AWS, Flask, MongoDB, NumPy, Pandas
 
 ## Education
 <b>University of California, San Diego</b> <i>B.S. Computer Science</i>
