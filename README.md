@@ -3,6 +3,9 @@ I'm a 3rd year studying Computer Science at UC San Diego. Welcome to my GitHub!
 
 <p style="font-size:100px">This is a paragraph.</p>
 
+<p align="center>
+          hi
+          </p>
 
 ## Skills
 
