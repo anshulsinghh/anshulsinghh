@@ -1,17 +1,11 @@
 # 👋 Hello, I'm Anshul!
 I'm a 3rd year studying Computer Science at UC San Diego. Welcome to my GitHub!
 
-## Skills
-<b>Core Skills:</b> Data Structures and Algorithms, Web Development, Databases, Systems Engineering, Agile Development
-<br>
-<b>Languages:</b> Java, Python, SQL, C++, C, R, Go, JavaScript, HTML, CSS
-<br>
-<b>Technologies:</b> NodeJS, REST APIs, GitHub, React, MySQL, Docker, AWS, Flask, MongoDB, NumPy, Pandas
+<b>I store all my projects on GitHub:</b>
+<b>FuelEfficient: </b> A full-stack web app that helps users visualize vehicle emissions using the EPA's Fuel Economy Dataset.
+<b>Speeding COVID-19 Testing via Pooled Optimization: </b> An algorithmic approach using binary search and binomial statistics to speed coronavirus testing by ~82%.
 
-## Education
-<b>University of California, San Diego</b>, <i>B.S. Computer Science</i>
-Major GPA: 3.7, GPA: 3.64
-<b>Class of 2022</b>
+
 
 
 ## Experience
