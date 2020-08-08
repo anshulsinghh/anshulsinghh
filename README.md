@@ -12,7 +12,7 @@ I'm a 3rd year studying Computer Science at UC San Diego. Welcome to my GitHub!
 ## Fun
 
 ## Get in Touch!
-✉️ a2singh@ucsd.edu
+✉️   a2singh@ucsd.edu
 
 <p align="center">
   <img src="https://github.com/anshulsinghh/anshulsinghh/blob/master/dino.gif" width="27px">
