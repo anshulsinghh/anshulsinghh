@@ -32,4 +32,6 @@ I'm a 3rd year studying Computer Science at UC San Diego. Welcome to my GitHub!
 </details>
 
 
-<p align="center" width="27px">![image](https://github.com/anshulsinghh/anshulsinghh/blob/master/dino.gif)</p>
+<p align="center">
+  <img src="https://github.com/anshulsinghh/anshulsinghh/blob/master/dino.gif" width="27px">
+</p>
