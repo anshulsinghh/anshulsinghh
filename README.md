@@ -9,7 +9,11 @@ I'm a 3rd year studying Computer Science at UC San Diego. Welcome to my GitHub!
 <b>Technologies:</b> NodeJS, REST APIs, GitHub, React, MySQL, Docker, AWS, Flask, MongoDB, NumPy, Pandas
 
 ## Education
-<b>University of California, San Diego</b> <i>B.S. Computer Science</i>
+<b>University of California, San Diego</b>, <i>B.S. Computer Science</i>
+Major GPA: 3.7, GPA: 3.64
+<b>Class of 2022</b>
+
+
 ## Experience
 
 ## Hackathons and Personal Projects
