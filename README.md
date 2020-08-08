@@ -3,9 +3,18 @@ I'm a 3rd year studying Computer Science at UC San Diego. Welcome to my GitHub!
 
 <p style="font-size:100px">This is a paragraph.</p>
 
-<p align="center>
-          hi
-          </p>
+<p align="center">
+  <img src="https://github.com/anshulsinghh/anshulsinghh/blob/master/dino.gif" width="27px">
+  <br><br>
+  <samp>
+    :wave: Hi! I design for GitHub.
+    <br>My current work focuses on enabling all of y'all to
+      <br><em>receive recognition</em> for the amazing things that
+    <br>you do in your software communities :sparkles:<br><br>
+    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/pifafu">Twitter</a>
+  </samp>
+</p>
 
 ## Skills
 
