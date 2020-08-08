@@ -8,6 +8,8 @@ I'm a 3rd year studying Computer Science at UC San Diego. Welcome to my GitHub!
       <samp>
           :wave: Hi! I'm Anshul!
           <br>I'm a 3rd year studying Computer Science at UC San Diego. Welcome to my GitHub!
+      
+      </samp>
           
 </p>
 
