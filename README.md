@@ -14,7 +14,7 @@ I'm a 3rd year studying Computer Science at UC San Diego. Welcome to my GitHub!
 ## Fun
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <img src="https://github.com/anshulsinghh/anshulsinghh/blob/master/dino.gif" width="27px">
   <br><br>
   <samp>
     :wave: Hi! I design for GitHub.
