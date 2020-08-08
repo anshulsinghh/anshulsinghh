@@ -1,15 +1,15 @@
 # 👋 Hello, I'm Anshul!
 I'm a 3rd year studying Computer Science at UC San Diego. Welcome to my GitHub!
 
-## Skills
+### Skills
 
-## Education
+### Education
 
-## Experience
+### Experience
 
-## Hackathons and Personal Projects
+### Hackathons and Personal Projects
 
-## Fun
+### Fun
 
 ### Get in Touch!
 
