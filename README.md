@@ -12,6 +12,7 @@ I'm a 3rd year studying Computer Science at UC San Diego. Welcome to my GitHub!
 ### Fun
 
 ### Get in Touch!
+:phone: 858-263-5747
 
 <p align="center">
   <img src="https://github.com/anshulsinghh/anshulsinghh/blob/master/dino.gif" width="27px">
